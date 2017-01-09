@@ -1,2 +1,2 @@
 # devOpsTraining
-Dev ops training by Siva Chedde
+Dev ops training by Siva Chedde 9th jan 2017
